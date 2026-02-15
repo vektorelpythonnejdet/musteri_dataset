@@ -1,0 +1,44 @@
+Ýsim Soyisim,Þehir,Ödeme Türü,Abonelik Süresi,Aylýk Ödeme,Cinsiyet,Churn
+Ahmet Yýlmaz,Ýstanbul,Kredi Kartý,12,150,Erkek,0
+Elif Demir,Ankara,Havale,6,120,Kadýn,1
+Mehmet Kaya,Ýzmir,PayPal,24,180,Erkek,0
+Ayþe Çelik,Bursa,Kredi Kartý,3,100,Kadýn,1
+Caner Þahin,Antalya,Havale,18,160,Erkek,0
+Zeynep Aksoy,Adana,Kredi Kartý,9,140,Kadýn,0
+Emre Yýldýrým,Ýstanbul,PayPal,36,200,Erkek,0
+Fatma Koç,Ankara,Kredi Kartý,1,90,Kadýn,1
+Berkay Arslan,Ýzmir,Havale,15,170,Erkek,0
+Derya Uslu,Antalya,Kredi Kartý,6,130,Kadýn,1
+Selim Arý,Trabzon,Kredi Kartý,10,145,Erkek,0
+Sibel Güneþ,Eskiþehir,PayPal,8,135,Kadýn,0
+Oðuzhan Taþ,Ýstanbul,Havale,20,175,Erkek,0
+Melis Yüce,Ankara,Kredi Kartý,5,110,Kadýn,1
+Burak Polat,Ýzmir,PayPal,22,185,Erkek,0
+Aylin Demirtaþ,Bursa,Kredi Kartý,4,105,Kadýn,1
+Kaan Arslan,Antalya,Havale,14,160,Erkek,0
+Elif Karaca,Adana,Kredi Kartý,7,125,Kadýn,1
+Murat Akýn,Ýstanbul,PayPal,28,190,Erkek,0
+Zeynep Yýldýz,Ankara,Kredi Kartý,2,95,Kadýn,1
+Ahmet Erdem,Ýzmir,Havale,16,155,Erkek,0
+Aysel Özkan,Bursa,Kredi Kartý,9,140,Kadýn,0
+Kerem Kaya,Antalya,PayPal,12,150,Erkek,0
+Gülþah Aydýn,Adana,Kredi Kartý,6,120,Kadýn,1
+Deniz Yýlmaz,Ýstanbul,Havale,18,170,Erkek,0
+Selin Kara,Ankara,Kredi Kartý,3,100,Kadýn,1
+Emrah Þen,Ýzmir,PayPal,24,180,Erkek,0
+Fatma Tekin,Bursa,Kredi Kartý,5,110,Kadýn,1
+Kadir Yýldýrým,Antalya,Havale,20,175,Erkek,0
+Zehra Demir,Adana,Kredi Kartý,2,95,Kadýn,1
+Baran Polat,Ýstanbul,PayPal,30,200,Erkek,0
+Ceren Koç,Ankara,Kredi Kartý,4,105,Kadýn,1
+Ozan Arslan,Ýzmir,Havale,14,160,Erkek,0
+Merve Uslu,Bursa,Kredi Kartý,7,125,Kadýn,1
+Hakan Taþ,Antalya,PayPal,22,185,Erkek,0
+Esra Yüce,Adana,Kredi Kartý,1,90,Kadýn,1
+Ali Çelik,Ýstanbul,Havale,18,170,Erkek,0
+Buse Karaca,Ankara,Kredi Kartý,6,120,Kadýn,1
+Cem Þahin,Ýzmir,PayPal,24,180,Erkek,0
+Zeynep Güneþ,Bursa,Kredi Kartý,3,100,Kadýn,1
+Mert Arý,Antalya,Havale,12,150,Erkek,0
+Elif Yýldýrým,Adana,Kredi Kartý,8,135,Kadýn,0
+...
